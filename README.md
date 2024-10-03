@@ -9,3 +9,7 @@
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I like walking, reading books especially about technology-AI-software.
+
+- Languages :
+   -C(more than 1.5 year)
+   -C++(more than 2 months)
