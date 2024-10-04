@@ -8,7 +8,7 @@
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I like walking, reading books especially about technology-AI-software.
+- ⚡ Fun fact: I like walking, reading books especially about technology-AI-software-cyber security.
 
 - Languages :
    -C(more than 1.5 year)
