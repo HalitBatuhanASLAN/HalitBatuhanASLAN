@@ -82,16 +82,21 @@ Bu repoda ve Medium hesabımda paylaştığım bazı teknik yazı serileri:
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=HalitBatuhanASLAN&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats" />
-</a>
+  <a href="https://github.com/HalitBatuhanASLAN">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HalitBatuhanASLAN&show_icons=true&theme=radical&locale=tr&hide_border=true" height="180" alt="GitHub Stats" />
+  </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalitBatuhanASLAN&layout=compact&theme=radical&hide_border=true" height="160" alt="languages" />
-</a>
+  <a href="https://github.com/HalitBatuhanASLAN">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HalitBatuhanASLAN&layout=compact&theme=radical&locale=tr&hide_border=true" height="180" alt="Top Languages" />
+  </a>
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HalitBatuhanASLAN&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
+  <br>
+  <a href="https://github.com/HalitBatuhanASLAN">
+    <img src="https://img.shields.io/badge/Profilimi_Ziyaret_Et-000000?style=for-the-badge&logo=github&logoColor=white" alt="Visit Profile" />
+  </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=HalitBatuhanASLAN&color=blueviolet&style=flat-square&label=Profil+Görüntülenmesi" alt="profile views" />
 </div>
